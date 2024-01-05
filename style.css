@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-logo{
+    font-size: 45px;
+    font-family: 'Rubik Glitch', system-ui;
+    /* font-family: 'Rubik Lines', system-ui; */
+}
+
+.f-letter{
+    font-family: 'Bungee Spice', sans-serif;
+}
+nav ul{
+    display: flex;
+}
+
+nav  li{
+    list-style: none;
+    margin: 0 20px;
+}
+nav li a {
+    text-decoration: none;
+    font-size: 20px;
+}

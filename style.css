@@ -4,9 +4,9 @@
 }
 .red-header{
     background-color: rgba(0, 0, 255, 0.301);
-    background-image: url('./image/header_bg.png');
+    background-image: url('./image/header_bg.png'), url('./image/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 }
 nav{
     display: flex;

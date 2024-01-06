@@ -86,6 +86,7 @@ main{
     background-color: #fd6f0a42;
     margin: 130px 0;
     border-radius: 10px;
+    font-size: 20px;
 }
 
 .about-title{
@@ -96,6 +97,7 @@ main{
 .about-discrioption{
     text-align: center;
     font-size: 18px;
+    padding: 15px;
 }
 
 .aboutInfo-container{
@@ -110,4 +112,24 @@ main{
 
 #about-discrioption-id{
     padding: 30px 120px;
+}
+
+.skills-contrainer{
+    display: flex;
+    gap: 24px;
+    padding: 0 0 100px 0;
+
+}
+.skills{
+    padding: 24px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    font-size: 20px;
+}
+.skills p{
+    text-align: justify;
+}
+.headinng-padding{
+    padding: 20px 0;
 }

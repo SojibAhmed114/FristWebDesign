@@ -143,15 +143,36 @@ main{
 }
 
 .resumy-titel{
-    padding: 10px 0;
+    
+    margin: 10px 0;
 }
 .resumy-subtitle{
     color: #757575;
     font-size: 20px;
-    padding-bottom: 10px;
+    margin: 10px 0;
+
 }
 .resumy-discription{
     color: #757575;
-    padding-bottom: 20px;
-    
+    margin: 10px 0;
+}
+
+.resumy-ful-contrainer hr{
+    margin: 20px 0;
+}
+.resumy-button{
+    text-align: center;
+    margin: 50px 0;
+}
+
+/* footer section design */
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
+}
+
+.footer-title{
+    font-size: 45px;
 }

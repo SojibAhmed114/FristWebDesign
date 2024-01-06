@@ -176,6 +176,17 @@ footer{
 
 .footer-title{
     font-size: 45px;
+    margin-bottom: 15px;
+}
+
+.footer-text-description{
+    font-size: 20px;
+    margin-bottom: 5px;
+
+}
+
+.link img{
+    padding-right: 20px;
 }
 
 .footer-section{

@@ -131,3 +131,27 @@ main{
 .headinng-padding{
     padding: 20px 0;
 }
+
+.resumy-title{
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px 0;
+}
+.resumy-ful-contrainer{
+    display: flex;
+    gap: 50px;
+}
+
+.resumy-titel{
+    padding: 10px 0;
+}
+.resumy-subtitle{
+    color: #757575;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.resumy-discription{
+    color: #757575;
+    padding-bottom: 20px;
+    
+}

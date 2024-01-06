@@ -71,15 +71,39 @@ nav li a {
     width: 600px;
 }
 
+
+/* main section desig */
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
 /* about setion design */
 
 .about-me{
-    padding: 130PX;
+    padding: 100PX 130PX;
     background-color: #fd6f0a42;
+    margin: 130px 0;
+    border-radius: 10px;
 }
 
 .about-title{
     text-align: center;
     font-size: 35px;
     font-weight: 700;
+}
+.about-discrioption{
+    text-align: center;
+    font-size: 18px;
+}
+
+.aboutInfo-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.aritcle-contrainer{
+    text-align: center;
 }
